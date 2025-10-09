@@ -31,7 +31,7 @@ I have presented ten papers at two leading international conferences in the fiel
 
 - Sun, Z., Xu, R., Deng, L., `"Jin, F."`, Song, Z., and Lin, C.-H. (2023). Beyond coding and counting: Exploring teachers’ practical knowledge online through epistemic network analysis. *Computers & Education*, *192*, 104647. [JCR Q1; IF: 13] [[Page]](https://doi.org/hku.hk/10.1016/j.compedu.2022.104647)
 
-- `"Jin, F."`, Lin, C.-H., and Lai, C. (Minor Revision). Profiles of Postgraduate students’ use of artificial intelligence in writing: Antecedents and outcomes. *Computers & Education*. [JCR Q1; IF: 11.6]
+- `"Jin, F."`, Lin, C.-H., and Lai, C. (Minor Revision). Profiles of Postgraduate students’ use of artificial intelligence in writing: Antecedents and outcomes. *Computers & Education*. [JCR Q1; IF: 13]
 
 - `"Jin, F."`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. *Computers in Human Behavior*, *165*, 108538. [SSCI一区；IF: 9.5] [[Page]](https://dx.doi.org/10.3390/ma15207362)
 
