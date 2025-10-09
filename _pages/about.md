@@ -78,7 +78,7 @@ I have presented ten papers at two leading international conferences in the fiel
 
 -	Lin, C.-H., Zhou, K., `Jin, F.`, Li, W., and Song, Z. (2021, July). Instructional design of technology-enhanced vocabulary learning activities: A research synthesis. *TeLLT CoLLT 2021*, Hong Kong.
 
-# <span class="anchor" id="xm"></span>
+<span class="anchor" id="xm"></span>
 # 🧩 Research Funding
 
 ### External Grants
