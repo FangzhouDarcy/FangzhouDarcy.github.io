@@ -27,25 +27,25 @@ I have presented ten papers at two leading international conferences in the fiel
 <span class='anchor' id='-qklw'></span>
 
 # 📝 Journal Papers
-- `"Jin, F."`, Pan, Y., Sun, L., and Lin, C.-H. (2025). High Heels, compass, spider-Man, or drug? Metaphor analysis of artificial intelligence in academic writing. *Computers & Education*, *288*, 105248. [中科院一区 TOP; JCR一区; IF: 13; 被 Scientific American（隶属Nature）报道；ESI 高被引] [[网页]](https://doi.org/10.1016/j.compedu.2025.105248) [[报道]](https://www.scientificamerican.com/article/is-chatgpt-a-drug-metaphors-show-what-students-think-of-ai/)
+- `"Jin, F."`, Pan, Y., Sun, L., and Lin, C.-H. (2025). High Heels, compass, spider-Man, or drug? Metaphor analysis of artificial intelligence in academic writing. *Computers & Education*, *288*, 105248. [JCR Q1; IF: 13; featured by Scientific American (under Nature Publishing Group); Selected as an ESI Highly Cited Paper] [[Page]](https://doi.org/10.1016/j.compedu.2025.105248) [[Coverage]](https://www.scientificamerican.com/article/is-chatgpt-a-drug-metaphors-show-what-students-think-of-ai/)
 
-- Sun, Z., Xu, R., Deng, L., `"Jin, F."`, Song, Z., and Lin, C.-H. (2023). Beyond coding and counting: Exploring teachers’ practical knowledge online through epistemic network analysis. *Computers & Education*, *192*, 104647. [中科院一区 TOP; JCR一区; IF: 13] [[网页]](https://doi.org/hku.hk/10.1016/j.compedu.2022.104647)
+- Sun, Z., Xu, R., Deng, L., `"Jin, F."`, Song, Z., and Lin, C.-H. (2023). Beyond coding and counting: Exploring teachers’ practical knowledge online through epistemic network analysis. *Computers & Education*, *192*, 104647. [JCR Q1; IF: 13] [[Page]](https://doi.org/hku.hk/10.1016/j.compedu.2022.104647)
 
-- `"Jin, F."`, Lin, C.-H., and Lai, C. (Minor Revision). Profiles of Postgraduate students’ use of artificial intelligence in writing: Antecedents and outcomes. *Computers & Education*. [中科院一区 TOP; JCR一区; IF: 11.6]
+- `"Jin, F."`, Lin, C.-H., and Lai, C. (Minor Revision). Profiles of Postgraduate students’ use of artificial intelligence in writing: Antecedents and outcomes. *Computers & Education*. [JCR Q1; IF: 11.6]
 
-- `"Jin, F."`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. *Computers in Human Behavior*, *165*, 108538. [中科院一区 TOP; SSCI一区；IF: 9.5] [[网页]](https://dx.doi.org/10.3390/ma15207362)
+- `"Jin, F."`, Lin, C.-H., and Lai, C. (2024). Modeling AI-Assisted writing: How self-regulated learning influences writing outcomes. *Computers in Human Behavior*, *165*, 108538. [SSCI一区；IF: 9.5] [[Page]](https://dx.doi.org/10.3390/ma15207362)
 
-- `"Jin, F."`, Lin, C.-H. (Revision). Exploring the effect of GenAI on students’ writing and visualizing the writing process through Heart Rate Variability. *British Journal of Educational Technology*. [中科院一区 TOP; SSCI 一区; IF: 7.2] [[网页]](https://doi.org/10.1111/bjet.13452)
+- `"Jin, F."`, Lin, C.-H. (Revision). Exploring the effect of GenAI on students’ writing and visualizing the writing process through Heart Rate Variability. *British Journal of Educational Technology*. [SSCI 一区; IF: 7.2] [[Page]](https://doi.org/10.1111/bjet.13452)
 
-- `"Jin, F."`, Peng, X., Sun, L., Zhou, K., Song, Z., and Lin, C.-H. (2025). Knowledge (co-)construction among artificial intelligence, novice and experienced Teachers in an online professional learning community. *Journal of Computer Assisted Learning*, *41*(2), 1–21. [中科院一区 TOP; SSCI 一区；IF: 5.4] [[网页]](https://doi.org/10.1111/jcal.12954)
+- `"Jin, F."`, Peng, X., Sun, L., Zhou, K., Song, Z., and Lin, C.-H. (2025). Knowledge (co-)construction among artificial intelligence, novice and experienced Teachers in an online professional learning community. *Journal of Computer Assisted Learning*, *41*(2), 1–21. [SSCI 一区；IF: 5.4] [[Page]](https://doi.org/10.1111/jcal.12954)
 
-- Zhou, K., `"Jin, F."`, Li, W., Song, Z., and Lin, C.-H. (2024). The Design of technology-enhanced vocabulary learning: A systematic review. *Education and Information Technologies*, *29*, 1–23. [SSCI 一区; IF: 4.8] [[网页]](https://doi.org/10.1007/s10639-024-12345-6)
+- Zhou, K., `"Jin, F."`, Li, W., Song, Z., and Lin, C.-H. (2024). The Design of technology-enhanced vocabulary learning: A systematic review. *Education and Information Technologies*, *29*, 1–23. [SSCI 一区; IF: 4.8] [[Page]](https://doi.org/10.1007/s10639-024-12345-6)
 
-- Song, Z., Qin, J., `"Jin, F."`, and Lin, C.-H. (2025). Insights into teachers’ generative artificial intelligence integration: A case study based on teachers’ GenAI integration processes and influencing factors. *Teaching and Teacher Education*. [中科院一区 TOP; SSCI 一区; IF: 4.5] [[网页]](https://doi.org/10.1016/j.tate.2025.104567)
+- Song, Z., Qin, J., `"Jin, F."`, and Lin, C.-H. (2025). Insights into teachers’ generative artificial intelligence integration: A case study based on teachers’ GenAI integration processes and influencing factors. *Teaching and Teacher Education*. [SSCI 一区; IF: 4.5] [[Page]](https://doi.org/10.1016/j.tate.2025.104567)
 
-- Lin, C.-H., Zhou, K., and `"Jin, F."` (2024). More is not always better? Vocabulary learning strategies instruction in online environment. *Interactive Learning Environments*, *32*(10), 24–41. [SSCI 一区; IF: 4.5] [[网页]](https://doi.org/10.1080/10494820.2024.1234567)
+- Lin, C.-H., Zhou, K., and `"Jin, F."` (2024). More is not always better? Vocabulary learning strategies instruction in online environment. *Interactive Learning Environments*, *32*(10), 24–41. [IF: 4.5] [[Page]](https://doi.org/10.1080/10494820.2024.1234567)
 
-- Sun, L., `"Jin, F."`, Zhou, K., Lin, C.-H., and Cheung, W. M. (Revision). From clueless to confident: How ChatGPT can transform L2 academic writing. *International Journal of Applied Linguistics*. [SSCI 一区; IF: 2.1] [[网页]](https://doi.org/10.1075/ijal.12345)
+- Sun, L., `"Jin, F."`, Zhou, K., Lin, C.-H., and Cheung, W. M. (Revision). From clueless to confident: How ChatGPT can transform L2 academic writing. *International Journal of Applied Linguistics*. [IF: 2.1] [[Page]](https://doi.org/10.1075/ijal.12345)
 
 - 金方舟. (2020). 提供写作支架助力过程指导——以《“突出中心”写作思维训练》为例. *中学语文教学*, 2020(09), 39–42. [北大核心期刊；人大复印资料转载]
 
@@ -94,11 +94,11 @@ I have presented ten papers at two leading international conferences in the fiel
    💰 Amount：7,500 HKD  
    🏛️ Source of Grant: Hong Kong Hsin Chong – K.N. Godfrey Yeh Education Fund  
 
-3. **基于人工智能的课堂教学交互分析关键技术研究**（Graduate Student Researcher）  
+3. **Research on key technology of classroom teaching interactive analysis based on artificial intelligence**（Graduate Student Researcher）  
    📅 *2020 – 2023*  
    💰 Amount: 500,000 CNY  
    🏛️ Source of Grant: China National Science Fund
-   👤 PI: Prof. Zhong Sun, Co-I: Prof. Chinhsi Lin
+   👤 PI: Prof. Zhong Sun, Co-I: Prof. Chin-Hsi Lin
 
 
 ### Internal grants
@@ -106,12 +106,12 @@ I have presented ten papers at two leading international conferences in the fiel
    📅 *2021*  
    💰 Amount：149,884 HKD  
    🏛️ Source of Grant：Funding from Seed Fund for Basic Research, The University of Hong Kong
-   👤 PI：Prof. Chinhsi Lin
+   👤 PI：Prof. Chin-Hsi Lin
 
   
  <span class='anchor' id='-ryjx'></span> 
 # 🏆 Honours and Awards
-### 研究生期间
+### During Postgraduate Studies
 - *2025*, HKU Foundation Publication Award for Research Postgraduate Students, HKU 
 - *2024*, HKU Foundation First Year Excellent Ph.D. Award (One of two nominated by the faculty), HKU
 - *2024*, Research Postgraduate Students Publication Award, Faculty of Education (One of five in the faculty)
@@ -121,7 +121,7 @@ I have presented ten papers at two leading international conferences in the fiel
 - *2022 – 2024*, Person In Charge, Photography Team, HKU
 - *2022*, Volunteer, Flag Day in Hong Kong Island District
 
-###  本科期间
+###  During Undergraduate Studies
 - *2018*, Zhejiang Provincial Government Scholarship (Only one in the class), Zhejiang government
 - *2018*, Provincial Bronze Award, National College Student Entrepreneurship Competition Challenge Cup, Zhejiang government
 - *2017*, First Prize in the 12th National College Students Writing Competition, Committee of Chinese College Students’ Literary Works
@@ -130,5 +130,5 @@ I have presented ten papers at two leading international conferences in the fiel
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
+# 💻 Working Experience
 - *2019.10 – 2020.6*, Mandarin Teaching Intern (Part-time), Hampton Court House School, UK
