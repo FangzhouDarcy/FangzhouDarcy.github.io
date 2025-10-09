@@ -47,9 +47,9 @@ I have presented ten papers at two leading international conferences in the fiel
 
 - Sun, L., `"Jin, F."`, Zhou, K., Lin, C.-H., and Cheung, W. M. (Revision). From clueless to confident: How ChatGPT can transform L2 academic writing. *International Journal of Applied Linguistics*. [IF: 2.1] [[Page]](https://doi.org/10.1075/ijal.12345)
 
-- 金方舟. (2020). 提供写作支架助力过程指导——以《“突出中心”写作思维训练》为例. *中学语文教学*, 2020(09), 39–42. [北大核心期刊；人大复印资料转载]
+- Jin, F. (2020). Providing scaffolding to facilitate process guidance: A case study of ‘Highlighting the Central Idea in Writing. Language Teaching in Middle School, (09), 39-42. [提供写作支架，助力过程指导，中学语文教学][The Peking University Core Journal in Chinese language education]
 
-- 金方舟. (2018). 《诗经·卷耳》若干词义考辨. *语文学习*, 2018(07), 43–45.
+- Jin, F. (2018). Several Semantic interpretations of ‘Juan Er’ in The Book of Songs. Language Learning,(07), 43-45. [《诗经·卷耳》若干词义考辨，语文学习]
   
 <span class='anchor' id='-hylw'></span>
   
