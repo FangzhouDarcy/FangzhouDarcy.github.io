@@ -3,17 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Journal Papers"
+    url: "/#-qklw"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Conference Presentations"
+    url: "/#-hylw"
+    
+  - title: "Research Funding"
+    url: "/#-xm"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Honours and Awards"
+    url: "/#-ryjx"
 
-  - title: "Conferences"
-    url: "/#-conferences"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Working Experience"
+    url: "/#-gzsx"
