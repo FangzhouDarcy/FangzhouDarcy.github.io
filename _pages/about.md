@@ -92,9 +92,10 @@ I have presented ten papers at two leading international conferences in the fiel
 2. **Digital Storytelling: My Voice, My Vision, My City in COVID-19**（Co-I）  
    📅 *2022 – 2023*  
    💰 Amount：7,500 HKD  
-   🏛️ Source of Grant: Hong Kong Hsin Chong – K.N. Godfrey Yeh Education Fund  
+   🏛️ Source of Grant: Hong Kong Hsin Chong – K.N. Godfrey Yeh Education Fund
+   👤 PI: Dr. Guangxiang Liu
 
-3. **Research on key technology of classroom teaching interactive analysis based on artificial intelligence**（Graduate Student Researcher）  
+4. **Research on key technology of classroom teaching interactive analysis based on artificial intelligence**（Graduate Student Researcher）  
    📅 *2020 – 2023*  
    💰 Amount: 500,000 CNY  
    🏛️ Source of Grant: China National Science Fund
