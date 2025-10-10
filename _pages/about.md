@@ -78,6 +78,14 @@ I have presented ten papers at two leading international conferences in the fiel
 
 -	Lin, C.-H., Zhou, K., `Jin, F.`, Li, W., and Song, Z. (2021, July). Instructional design of technology-enhanced vocabulary learning activities: A research synthesis. *TeLLT CoLLT 2021*, Hong Kong.
 
+<span class='anchor' id='-grzz'></span>
+
+# 📖 Books
+
+1. **Jin, F.**, & Jin, G. (2018). *Guided Reading for Tagore Poems* [《泰戈爾詩選》導讀]. Zhejiang Literature and Art Publishing House. ISBN: 978-7533953430.
+2. **Jin, F.** (2015). *When Time Back to the Beginning* [逆流而上的時光]. Zhejiang Education Press. ISBN: 978-7553627601.  
+   ➤ *Featured in Central Zhejiang New Daily*
+
 <span class="anchor" id="xm"></span>
 # 🧩 Research Funding
 
