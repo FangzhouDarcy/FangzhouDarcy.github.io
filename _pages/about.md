@@ -37,7 +37,7 @@ I have presented ten papers at two leading international conferences in the fiel
 
 - `"Jin, F."`, Lin, C.-H. (Revision). Exploring the effect of GenAI on students’ writing and visualizing the writing process through Heart Rate Variability. *British Journal of Educational Technology*. [SSCI 一区; IF: 7.2] [[Page]](https://doi.org/10.1111/bjet.13452)
 
-- Jin, F., Song, Z., Cheung, W. M., Lin, C.-H., and Liu, T. (2023). Technological affordances in
+-  `"Jin, F."`, Song, Z., Cheung, W. M., Lin, C.-H., and Liu, T. (2023). Technological affordances in
 teachers’ online professional learning communities: A systematic review. Journal of Computer
 Assisted Learning, 40(3), 1-21 [中科院一区 TOP; SSCI 一区； IF: 5.4][[page]](https://doi-org.eproxy.lib.hku.hk/10.1111/jcal.12935)
 
