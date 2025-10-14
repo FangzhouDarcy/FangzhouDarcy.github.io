@@ -37,6 +37,10 @@ I have presented ten papers at two leading international conferences in the fiel
 
 - `"Jin, F."`, Lin, C.-H. (Revision). Exploring the effect of GenAI on students’ writing and visualizing the writing process through Heart Rate Variability. *British Journal of Educational Technology*. [SSCI 一区; IF: 7.2] [[Page]](https://doi.org/10.1111/bjet.13452)
 
+- Jin, F., Song, Z., Cheung, W. M., Lin, C.-H., and Liu, T. (2023). Technological affordances in
+teachers’ online professional learning communities: A systematic review. Journal of Computer
+Assisted Learning, 40(3), 1-21 [中科院一区 TOP; SSCI 一区； IF: 5.4][[page]](https://doi-org.eproxy.lib.hku.hk/10.1111/jcal.12935)
+
 - `"Jin, F."`, Peng, X., Sun, L., Zhou, K., Song, Z., and Lin, C.-H. (2025). Knowledge (co-)construction among artificial intelligence, novice and experienced Teachers in an online professional learning community. *Journal of Computer Assisted Learning*, *41*(2), 1–21. [SSCI 一区；IF: 5.4] [[Page]](https://doi-org.eproxy.lib.hku.hk/10.1111/jcal.70004)
 
 - Zhou, K., `"Jin, F."`, Li, W., Song, Z., and Lin, C.-H. (2024). The Design of technology-enhanced vocabulary learning: A systematic review. *Education and Information Technologies*, *29*, 1–23. [SSCI 一区; IF: 4.8] [[Page]](https://doi.org/10.1007/s10639-023-12423-y)
