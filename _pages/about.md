@@ -114,9 +114,9 @@ Assisted Learning, 40(3), 1-21 [JCR Q1； IF: 5.4][[page]](https://doi-org.eprox
    👤 PI: Prof. Zhong Sun, Co-I: Prof. Chin-Hsi Lin
 
 4. **National Educational Science Planning Program – Youth Project: “Construction and Application of an Evaluation System for Students’ Digital and Intelligent Literacy in Compulsory Education in the New Era”** (Participant)
-📅 Oct 2025 – Present
-🏛️ Funding Agency: Ministry of Education, PRC
-👤 Principal Investigator: Professor Rui Ren
+   📅 Oct 2025 – Present
+   🏛️ Funding Agency: Ministry of Education, PRC
+   👤 Principal Investigator: Professor Rui Ren
 
 
 ### Internal grants
