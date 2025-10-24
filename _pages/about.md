@@ -107,11 +107,16 @@ Assisted Learning, 40(3), 1-21 [JCR Q1； IF: 5.4][[page]](https://doi-org.eprox
    🏛️ Source of Grant: Hong Kong Hsin Chong – K.N. Godfrey Yeh Education Fund
    👤 PI: Dr. Guangxiang Liu
 
-4. **Research on key technology of classroom teaching interactive analysis based on artificial intelligence**（Graduate Student Researcher）  
+3. **Research on key technology of classroom teaching interactive analysis based on artificial intelligence**（Graduate Student Researcher）  
    📅 *2020 – 2023*  
    💰 Amount: 500,000 CNY  
    🏛️ Source of Grant: China National Science Fund
    👤 PI: Prof. Zhong Sun, Co-I: Prof. Chin-Hsi Lin
+
+4. **National Educational Science Planning Program – Youth Project: “Construction and Application of an Evaluation System for Students’ Digital and Intelligent Literacy in Compulsory Education in the New Era”** (Participant)
+📅 Oct 2025 – Present
+🏛️ Funding Agency: Ministry of Education, PRC
+👤 Principal Investigator: Professor Rui Ren
 
 
 ### Internal grants
